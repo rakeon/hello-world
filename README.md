@@ -1,2 +1,2 @@
 Hi Human,
-I like node js 
+I would like to learn the stack 'Mean' with NodeJS, and I'm just new with this tecnology
